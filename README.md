@@ -11,7 +11,7 @@
 
 <div align="left">
     
-🌎   I’m based in **United States**
+☞ 🌎   I’m based in **United States**
  
 📩   You can reach out to me via: **ghemacha@asu.edu or ganavih2000@gmail.com**
 
