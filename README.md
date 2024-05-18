@@ -49,17 +49,15 @@
 
 
 <div style="text-align: center;">
-  <h2>⚡ Stats ⚡</h2>
-  <br>
   <div style="margin: 0 auto; width: 400px;">
     <div style="text-align: center;">
-    <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" 
+    <img style="display: block; margin: 0 center;" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" 
 alt="streak stats"/>
   </div>
   <br><br>
   <div style="display: flex; justify-content: center;">
-    <img style="width: 390px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ganavihemachandra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img style="width: 325px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganavihemachandra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img style="width: 400px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ganavihemachandra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img style="width: 340px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganavihemachandra&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </div>
 </div>
 
