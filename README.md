@@ -11,13 +11,13 @@
 
 <div align="left">
     
-☞ 🌎   I’m based in **United States**
+☞ 🌎   I’m based in United States
  
-☞ 📩   You can reach out to me via: **ghemacha@asu.edu or ganavih2000@gmail.com**
+☞ 📩   You can reach out to me via: ghemacha@asu.edu or ganavih2000@gmail.com
 
 ☞ 🛜   I'm available for networking and collaboration on interesting projects.
 
-☞ 🧠   I'm presently focused on enhancing my **AWS** skills.
+☞ 🧠   I'm presently focused on enhancing my AWS skills.
  
  </div>
  
