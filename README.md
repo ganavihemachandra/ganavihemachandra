@@ -2,8 +2,9 @@
 
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&duration=5000&loop=false&lines=Hi+There!+👋,+I'm+Ganavi+Hemachandra" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&duration=5000&loop=false&lines=Hi+There!+👋,+I'm+Ganavi,Hemachandra!" />
 </h1>
+
 
 
 
