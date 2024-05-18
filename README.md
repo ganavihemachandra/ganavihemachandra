@@ -49,9 +49,9 @@
 
 
 <div style="text-align: center;">
-    <div style="margin: 0 auto; width: 400px;">
+    <div style="align: center;" auto; width: 390px;">
         <div style="text-align: center;">
-            <img style="display: block; margin-right:10px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" alt="streak stats"/>
+            <img style="display: block; margin: auto"  src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" alt="streak stats"/>
         </div>
     </div>
     <br><br>
