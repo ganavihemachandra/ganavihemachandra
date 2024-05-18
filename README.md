@@ -6,7 +6,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Text Display</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; height: 100vh;">
   <h1 style="font-size: 40px; color: #FF5733;">Hi There! 👋, I'm Ganavi Hemachandra</h1>
