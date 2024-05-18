@@ -37,12 +37,15 @@
 <div style="text-align: center;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" />
+  <object data="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" alt="snake eating my contributions" />
+  </object>
   <br><br><br>
 </div>
 
+<hr>
 
-<!-- Add the rest of your content here -->
+
 
 
 <div style="text-align: center;">
