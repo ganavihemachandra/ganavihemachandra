@@ -6,13 +6,10 @@
 <img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
 
 <h4 align="left">Recent Master's in Information Technology student (2024), Arizona State University.</h4>
-<br/>
 
-<h4 align="left">I pride myself on my skill in analyzing raw data and transforming it into insights that drive meaningful and impactful changes.</h3>
-<br/>
+<p>I pride myself on my skill in analyzing raw data and transforming it into insights that drive meaningful and impactful changes.</p>
 
 <div align="left">
- 
  🌎 I’m based in **United States**
  
  📩 You can reach out to me via: **ghemacha@asu.edu or ganavih2000@gmail.com**
