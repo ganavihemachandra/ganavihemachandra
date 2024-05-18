@@ -10,13 +10,15 @@
 <p>I pride myself on my skill in analyzing raw data and transforming it into insights that drive meaningful and impactful changes.</p>
 
 <div align="left">
- 🌎 I’m based in **United States**
+    
+🌎   I’m based in **United States**
  
- 📩 You can reach out to me via: **ghemacha@asu.edu or ganavih2000@gmail.com**
+📩   You can reach out to me via: **ghemacha@asu.edu or ganavih2000@gmail.com**
 
- 🛜 I'm available for networking and collaboration on interesting projects.
+🛜   I'm available for networking and collaboration on interesting projects.
 
- 🧠 I'm presently focused on enhancing my **AWS** skills.
+🧠   I'm presently focused on enhancing my **AWS** skills.
+ 
  </div>
  
 <div align="center"> 
