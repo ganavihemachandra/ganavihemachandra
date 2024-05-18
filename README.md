@@ -18,6 +18,8 @@
 ☞ 🛜   I'm available for networking and collaboration on interesting projects.
 
 ☞ 🧠   I'm presently focused on enhancing my AWS skills.
+
+☞ 👩🏻‍💻   I'm looking for Full-time opportunity in Data Science as well as Software Roles!
  
  </div>
  
