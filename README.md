@@ -101,10 +101,11 @@
 
 
 
-<div style="text-align: center;">
+
+<div style="text-align: left;">
   <h2>My Contributions</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" />
   <br><br><br>
 </div>
 
