@@ -100,21 +100,12 @@
 
 </body>
 </html>
-
-
+<br><br>
 
 
 <div style="text-align: left;">
   <h2>My Contributions</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" />
-  <br><br><br>
-</div>
-
-
-
-
-
+    
 <div style="text-align: center;">
     <div style="margin: 0 auto; width: 390px;">
         <div style="text-align: center;">
