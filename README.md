@@ -1,16 +1,10 @@
 <img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <h1 style="font-size: 40px; color: #FF5733;">Hi There! 👋, I'm Ganavi Hemachandra</h1>
-</body>
-</html>
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&lines=Hi+There!+👋,+I'm+Ganavi+Hemachandra" />
+</h1>
+
 
 
 
