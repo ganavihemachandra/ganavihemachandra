@@ -34,6 +34,7 @@
 </div>
 
 
+<h4> Languge-Frameworks-Tools </h4>
 <div style="display: flex;">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" size="150" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" size="150" />
