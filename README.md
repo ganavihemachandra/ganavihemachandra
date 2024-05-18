@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&lines=Hi+There,+I'm+Ganavi+Hemachandra!" />
 </h1>
 
-<h3 align="center">Hey, thanks for taking a look!</h3>
+<h4 align="left">Hey, thanks for taking a look!</h4>
 <img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
 
 
