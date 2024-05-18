@@ -1,4 +1,4 @@
-<img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
+<img style="right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
 
 
 <h1>
