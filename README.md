@@ -5,14 +5,7 @@
 <h4 align="left">Hey, thanks for taking a look!</h4>
 <img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=ganavihemachandra.ganavihemachandra" />
 
-
-
-
-
-
-
-
-<h3 align="center">Recent Master in Information Technology student (2024), Arizona State University.</h3>
+<h4 align="center">Recent Master's in Information Technology student (2024), Arizona State University.</h4>
 <br/>
 
 <h4 align="left">I pride myself on my skill in analyzing raw data and transforming it into insights that drive meaningful and impactful changes.</h3>
