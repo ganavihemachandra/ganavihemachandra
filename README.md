@@ -1,4 +1,4 @@
-<h1>
+![image](https://github.com/ganavihemachandra/ganavihemachandra/assets/85887828/99e0570d-d8de-4b9b-a941-3b39a2c7c7a2)<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&lines=Hi+There,+I'm+Ganavi+Hemachandra!" />
 </h1>
 
@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" size="150" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" size="150" />
 </div>
+<br><br>
 
 -->Projects
 <!DOCTYPE html>
@@ -90,20 +91,23 @@
     </tr>
     <tr>
         <td>Phoenix Sustainability Dashboard</td>
-        <td>HTML, CSS, JavaScript, Python, Excel, Tableau, Google DialogFlow![image](https://github.com/ganavihemachandra/ganavihemachandra/assets/85887828/b6f3ecb6-c67f-4572-9991-9c830572ac32)
-</td>
+        <td>HTML, CSS, JavaScript, Python, Excel, Tableau, Google DialogFlow</td>
     </tr>
     <tr>
-        <td>Project 2</td>
-        <td>Python, TensorFlow, Keras, NumPy, pandas, Matplotlib, Scikit-learn, Jupyter Notebook</td>
+        <td><a href="https://github.com/ganavihemachandra/PDF-chatbot">PDF Chatbot Application</a></td>
+        <td>Python, Flask, Open AI API, HTML, PyPDF2, VS Code</td>
     </tr>
     <tr>
-        <td>Project 3</td>
-        <td>Java, Spring Boot, MySQL, Hibernate, RESTful APIs, JWT, Swagger UI, JUnit, Mockito</td>
+        <td><a href="https://github.com/ganavihemachandra/Bookswap-Hub">BookSwap Hub</a></td>
+        <td>Node.js, Express.js, MongoDB, JWT, EJS Templates</td>
     </tr>
     <tr>
-        <td>Project 4</td>
-        <td>C++, OpenGL, DirectX, Unity3D, Unreal Engine, 3D Modeling, Animation, Game Development</td>
+        <td><a href="https://github.com/ganavihemachandra/Used-Phone-Price-Prediction">Used Phone Price Prediction</a></td>
+        <td>NumPy, seaborn, scikit-learn, Regression Modeling (Linear, Ridge, Lasso, SVM, XGBoost)</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ganavihemachandra/Student-Housing---Tempe-Dashboard">Student Housing -Tempe Dashboard</a></td>
+        <td>Python, Tableau, Data Collection, Data Cleaning, Data Visualization</td>
     </tr>
 </table>
 
