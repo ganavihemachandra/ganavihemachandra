@@ -52,7 +52,9 @@
   <h2>⚡ Stats ⚡</h2>
   <br>
   <div style="margin: 0 auto; width: 400px;">
-    <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" alt="streak stats"/>
+    <div style="text-align: center;">
+    <img style="display: block; margin: 0 auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" 
+alt="streak stats"/>
   </div>
   <br><br>
   <div style="display: flex; justify-content: center;">
