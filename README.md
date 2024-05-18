@@ -100,16 +100,14 @@
 </html>
 
 
+
 <hr>
 <div style="text-align: center;">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
-  <object data="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" alt="snake eating my contributions" />
-  </object>
+  <img src="https://raw.githubusercontent.com/ganavihemachandra/ganavihemachandra/main/github-metrics.svg" alt="snake eating my contributions" />
   <br><br><br>
 </div>
-
 <hr>
 
 
