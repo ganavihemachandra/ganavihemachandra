@@ -46,7 +46,7 @@
 <div style="text-align: center;">
   <h2>⚡ Stats ⚡</h2>
   <br>
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" alt="streak stats"/>
+  <img align = "center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ganavihemachandra&theme=react&border_radius=10" alt="streak stats"/>
     <br><br>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=ganavihemachandra&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br><br>
