@@ -1,4 +1,4 @@
-![image](https://github.com/ganavihemachandra/ganavihemachandra/assets/85887828/99e0570d-d8de-4b9b-a941-3b39a2c7c7a2)<h1>
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=false&vCenter=true&width=600&height=70&lines=Hi+There,+I'm+Ganavi+Hemachandra!" />
 </h1>
 
@@ -58,27 +58,12 @@
 </div>
 <br><br>
 
--->Projects
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
 
