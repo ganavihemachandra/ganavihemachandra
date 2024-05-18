@@ -57,7 +57,58 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" size="150" />
 </div>
 
+-->Projects
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
 
+<h2>Projects</h2>
+
+<table>
+    <tr>
+        <th>Project Name</th>
+        <th>Tools and Skills</th>
+    </tr>
+    <tr>
+        <td>Phoenix Sustainability Dashboard</td>
+        <td>HTML, CSS, JavaScript, Python, Excel, Tableau, Google DialogFlow![image](https://github.com/ganavihemachandra/ganavihemachandra/assets/85887828/b6f3ecb6-c67f-4572-9991-9c830572ac32)
+</td>
+    </tr>
+    <tr>
+        <td>Project 2</td>
+        <td>Python, TensorFlow, Keras, NumPy, pandas, Matplotlib, Scikit-learn, Jupyter Notebook</td>
+    </tr>
+    <tr>
+        <td>Project 3</td>
+        <td>Java, Spring Boot, MySQL, Hibernate, RESTful APIs, JWT, Swagger UI, JUnit, Mockito</td>
+    </tr>
+    <tr>
+        <td>Project 4</td>
+        <td>C++, OpenGL, DirectX, Unity3D, Unreal Engine, 3D Modeling, Animation, Game Development</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 
 <hr>
