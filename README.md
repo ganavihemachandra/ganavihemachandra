@@ -7,7 +7,7 @@
 
 <h4 align="left">Recent Master's in Information Technology student (2024), Arizona State University.</h4>
 
-<p>I pride myself on my skill in analyzing raw data and transforming it into insights that drive meaningful and impactful changes.</p>
+<p>I take pride in developing reliable, user-focused applications that balance performance, scalability, and maintainability.</p>
 
 <div align="left">
     
@@ -19,7 +19,7 @@
 
 ☞ 🧠   I'm presently focused on enhancing my AWS skills.
 
-☞ 👩🏻‍💻   I'm looking for Full-time opportunity in Data Science as well as Software Roles!
+☞ 👩🏻‍💻   I'm looking for Full-time opportunity in Software Engineer Roles!
  
  </div>
  
