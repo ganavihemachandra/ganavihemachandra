@@ -1,14 +1,17 @@
 name: Sync LeetCode Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every day at midnight
-  workflow_dispatch:   # Allows you to trigger it manually
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Update README
-        uses: zwfy/leetcode-readme-action@master
+        uses: lowlighter/metrics@latest
         with:
-          username: Ganavih
+          token: NOT_NEEDED
+          plugin_leetcode: yes
+          plugin_leetcode_user: Ganavih
+          plugin_leetcode_sections: overview
