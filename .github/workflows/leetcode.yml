@@ -1,0 +1,14 @@
+name: Sync LeetCode Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight
+  workflow_dispatch:   # Allows you to trigger it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        uses: joshcai/leetcode-readme-action@master
+        with:
+          username: Ganavih
