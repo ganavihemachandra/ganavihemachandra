@@ -119,7 +119,8 @@
     </div>
 </div>
 
-![LeetCode Stats](https://github.com)
+![LeetCode Stats](github-metrics.svg)
+
 
 
 
