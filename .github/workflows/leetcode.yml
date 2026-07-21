@@ -14,4 +14,4 @@ jobs:
           token: NOT_NEEDED
           plugin_leetcode: yes
           plugin_leetcode_user: Ganavih
-          plugin_leetcode_sections: overview
+          plugin_leetcode_sections: cover
