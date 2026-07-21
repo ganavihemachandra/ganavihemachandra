@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update README
-        uses: joshcai/leetcode-readme-action@master
+        uses: zwfy/leetcode-readme-action@master
         with:
           username: Ganavih
